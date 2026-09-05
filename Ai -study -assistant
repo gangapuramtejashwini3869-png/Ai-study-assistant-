@@ -1,0 +1,7 @@
+print(" Most welcome to ai study assistant")
+print("your personal study assistant")
+
+name =input("Enter your name")
+
+print("Hello",name)
+print("How can i teach you today?")
