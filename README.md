@@ -1,2 +1,2 @@
 # Ai-study-assistant-
-An aI_ prowed study assistant for students 
+An aI_ powered study assistant for students 
