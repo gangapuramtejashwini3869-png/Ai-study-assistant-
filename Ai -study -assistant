@@ -12,3 +12,4 @@ print(" Good choice", subject")
 print("l can help you to learn", subject)
 
 print()
+print("what do you want to do today")
